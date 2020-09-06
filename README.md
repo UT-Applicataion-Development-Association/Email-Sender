@@ -21,8 +21,3 @@
 
 **2. Allow the use of less secure app access in your google account**
 
-## Acknowledgement
-
-**This script will not take any advantage of stealing the personal information**
-
-**I take no responsibility for any loss of personal infomration**
